@@ -1,0 +1,9 @@
+# 운영체제에서 만드는 시스템 파일들 제외
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+config.xml
